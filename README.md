@@ -1795,4 +1795,3 @@ function onScan(decodedText, decodedResult){
 </html>
 
 
-
